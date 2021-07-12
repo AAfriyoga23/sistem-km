@@ -1,2 +1,2 @@
-# sitem-km
+# sistem-km
 sistem manajemen pengetahuan
